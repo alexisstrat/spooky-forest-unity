@@ -1,0 +1,77 @@
+﻿{"gameOverMessages":
+  [
+    {
+      "identifier":"highscore",
+      "messages":
+      [
+        "new top!\nsurpassed myself again!",
+        "new top!\nI did it! or did I?",
+        "new top!\nterrorific!",
+        "new top!\nnever been so proud of me!",
+        "new top!\nI would like to thank my mom"
+      ]
+    },
+    {
+      "identifier":"camera",
+      "messages":
+      [
+        "need to work on my reflexes",
+        "snails were my ancestors probably",
+        "camera joke? nah it's to fast",
+        "I was late...\nI know...",
+        "oops, I did it again",
+        "is it spooktober yet?"
+      ]
+    },
+    {
+      "identifier":"river", 
+      "messages":
+      [
+        "brllooop",
+        "I don't know how to swim!",
+        "should have brought my fishing rod",
+        "found Atlantis!"
+      ]
+    },
+    {
+      "identifier":"train",
+      "messages":
+      [
+        "whoah, what was that?",
+        "it's going soo faast!",
+        "free ride, yes!",
+        "take me home"
+      ]
+    },
+    {
+      "identifier":"spider",
+      "messages":
+      [
+        "I hate spiders",
+        "maybe I'll become spiderman now",
+        "web development didn't work out",
+        "spending too much time on the web"
+      ]
+    },
+    {
+      "identifier":"skeleton",
+      "messages":
+      [
+        "bone appetit",
+        "should learn how to play the trom-bone",
+        "how did I not see this?",
+        "that was not very humerus"
+      ]
+    },
+    {
+      "identifier":"ghost",
+      "messages":
+      [
+        "ghost hug!",
+        "this is some boo sheet",
+        "after this I'll ghost you too",
+        "paranormal distribution"
+      ]
+    }
+  ]
+}

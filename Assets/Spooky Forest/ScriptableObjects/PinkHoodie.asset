@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86620336ce554e4883a74cf2d8dd024, type: 3}
+  m_Name: PinkHoodie
+  m_EditorClassIdentifier: 
+  characterId: 3
+  model: {fileID: 2541242438381154709, guid: 67f17d540ac5fdb439607fe20a75e587, type: 3}
+  characterName: Pinky
+  cost: 100
+  bought: 1
+  selected: 0

@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "447ab2c2",
+    "m_SelectedPackage": {
+        "deviceId": "447ab2c2",
+        "name": "com.blackbananastudios.spookyforest",
+        "processId": 4446,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.blackbananastudios.spookyforest",
+            "processId": 18182,
+            "exited": true
+        },
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.android.vending",
+            "processId": 26216,
+            "exited": true
+        },
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.blackbananastudios.spookyforest",
+            "processId": 22660,
+            "exited": true
+        },
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.google.android.play.games",
+            "processId": 15957,
+            "exited": true
+        },
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.blackbananastudios.spookyforest",
+            "processId": 23779,
+            "exited": true
+        },
+        {
+            "deviceId": "447ab2c2",
+            "name": "com.blackbananastudios.spookyforest",
+            "processId": 4446,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 246.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 0,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

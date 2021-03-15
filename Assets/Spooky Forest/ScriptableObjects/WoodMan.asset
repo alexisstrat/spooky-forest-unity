@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86620336ce554e4883a74cf2d8dd024, type: 3}
+  m_Name: WoodMan
+  m_EditorClassIdentifier: 
+  characterId: 5
+  model: {fileID: 4890873823490714346, guid: f6626dd3fe1c9f04b968f28451020050, type: 3}
+  characterName: WoodMan
+  cost: 30
+  grunt: {fileID: 8300000, guid: 23c388b6cd77179488159c7d6d6ad836, type: 3}
+  hitParticles: {fileID: 8336539439381949491, guid: 07ff0b19afc37dc47935ef2fb45897b6,
+    type: 3}

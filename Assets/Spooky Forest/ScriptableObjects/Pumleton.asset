@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86620336ce554e4883a74cf2d8dd024, type: 3}
+  m_Name: Pumleton
+  m_EditorClassIdentifier: 
+  characterId: 4
+  model: {fileID: 7533291738490459876, guid: ed80e77686b486940b9378b778cfb946, type: 3}
+  characterName: Pumleton
+  cost: 80
+  grunt: {fileID: 8300000, guid: 5cfaead1bed503b4aadbe9427a3fbb29, type: 3}
+  hitParticles: {fileID: 8336539439381949491, guid: 934d62ac422cb7745bf6e481538336e1,
+    type: 3}

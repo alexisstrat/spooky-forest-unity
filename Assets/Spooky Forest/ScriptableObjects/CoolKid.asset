@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e86620336ce554e4883a74cf2d8dd024, type: 3}
+  m_Name: CoolKid
+  m_EditorClassIdentifier: 
+  characterId: 2
+  model: {fileID: 7604836618410565019, guid: 62905ccf4e74d3742acb224d6348dd8a, type: 3}
+  characterName: Cool Kid
+  cost: 20
+  grunt: {fileID: 8300000, guid: 23c388b6cd77179488159c7d6d6ad836, type: 3}
+  hitParticles: {fileID: 8336539439381949491, guid: 07ff0b19afc37dc47935ef2fb45897b6,
+    type: 3}
